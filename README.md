@@ -13,4 +13,4 @@ Quickly add an HDR IBL envMap to your materials in a scene.  envMap and code pul
     // Optionally, if you host the assets somewhere else
     envMapify(scene, renderer, '/public/path/to/assets/)
 
-`envMapify` takes an optional third parameter identifying where the .hdr files live.  These files need to be accessible to the browser so if you need to copy them elsewhere to serve them, you'll put the path prefix as the third parameter.  
+`envMapify` takes an optional third parameter identifying where the .hdr files live.  These files need to be accessible to the browser so if you need to copy them elsewhere to serve them, you'll put the path prefix as the third parameter.  	
