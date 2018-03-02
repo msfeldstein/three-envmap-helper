@@ -2,7 +2,7 @@
   "name": "three-envmap-helper",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "example": "budo example/index.js -o -l",
     "test": "echo \"Error: no test specified\" && exit 1"
