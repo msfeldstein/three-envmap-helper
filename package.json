@@ -1,0 +1,17 @@
+{
+  "name": "three-envmap-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "budo example/index.js -o -l",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^11.1.7",
+    "three": "^0.90.0"
+  }
+}
